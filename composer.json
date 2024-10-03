@@ -1,0 +1,6 @@
+{
+    "name": "vicdeo/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.12"
+    }
+}
